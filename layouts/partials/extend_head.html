@@ -1,0 +1,24 @@
+{{- /* Custom styles */ -}}
+{{ $css_files := slice 
+  "css/variables.css"
+  "css/base.css"
+  "css/components/products.css"
+  "css/components/profile.css" 
+  "css/components/footer.css"
+  "css/components/toolset.css"
+}}
+
+{{ $resources := slice }}
+{{ range $css_files }}
+  {{ $css := resources.Get . }}
+  {{ if $css }}
+    {{ $resources = $resources | append $css }}
+  {{ end }}
+{{ end }}
+
+{{ if gt (len $resources) 0 }}
+  {{ $combined := $resources | resources.Concat "css/styles.css" | resources.Minify | resources.Fingerprint "sha512" }}
+  <link rel="stylesheet" href="{{ $combined.RelPermalink }}" integrity="{{ $combined.Data.Integrity }}">
+{{ else }}
+  <!-- No CSS resources were found -->
+{{ end }}

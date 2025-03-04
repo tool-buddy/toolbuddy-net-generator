@@ -1,0 +1,26 @@
+{{ define "main" }}
+<article class="post-single">
+  <header class="post-header">
+    <h1 class="post-title">{{ .Title }}</h1>
+    <div class="post-description">{{ .Description }}</div>
+  </header>
+  
+  <div class="post-content">
+    {{ .Content }}
+    
+    <div class="products-grid">
+      {{ range .Pages.ByWeight }}
+      <div class="project-card">
+        <a href="{{ .Params.storeLink }}">
+          <img src="{{ .Params.cover.image }}" alt="{{ .Params.cover.alt }}" />
+        </a>
+        <div class="project-card-content">
+          <h2><a href="{{ .Params.storeLink }}">{{ .Title }}</a></h2>
+          <p>{{ .Description }}</p>
+        </div>
+      </div>
+      {{ end }}
+    </div>
+  </div>
+</article>
+{{ end }}

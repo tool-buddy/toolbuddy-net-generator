@@ -1,0 +1,115 @@
+baseURL = 'https://toolbuddy.net/'
+languageCode = 'en-us'
+title = 'ToolBuddy'
+theme = 'PaperMod'
+copyright = '© Akram El Hadri'
+
+enableRobotsTXT = true
+buildDrafts = false
+buildFuture = false
+buildExpired = false
+enableEmoji = true
+
+disableKinds = ["taxonomy", "term"]
+
+[markup.goldmark.renderer]
+  unsafe = true # Allows HTML in markdown files
+
+[params]
+  description = "Providing expertise for video game creators"
+  author = "Akram El Hadri"
+  defaultTheme = "light" # dark, light, auto
+  disableThemeToggle = true
+  ShowReadingTime = false
+  ShowShareButtons = false
+  ShowPostNavLinks = true
+  ShowBreadCrumbs = false
+  ShowCodeCopyButtons = true
+  ShowRssButtonInSectionTermList = false
+  ShowFullTextinRSS = false
+  disableSpecial1stPost = true
+  disableScrollToTop = false
+  comments = false
+  hidemeta = false
+  hideSummary = false
+  
+  [params.social]
+    twitter = 'Tool_Buddy'
+
+  [params.label]
+    icon = "/images/logo.webp"
+    iconHeight = 30
+  
+  [params.profileMode]
+    enabled = true
+    title = "ToolBuddy"
+    subtitle = "Providing expertise for video game creators"
+    imageUrl = "/images/logo.webp"
+    imageTitle = "ToolBuddy Logo"
+    imageWidth = 240
+    imageHeight = 240
+
+    [[params.profileMode.buttons]]
+      name = "Products"
+      url = "/products"
+
+    [[params.profileMode.buttons]]
+      name = "Services"
+      url = "/services"
+
+    [[params.profileMode.buttons]]
+      name = "About Me"
+      url = "/about-me"
+
+  [[params.socialIcons]]
+    name = "email"
+    url = "mailto:admin@toolbuddy.net"
+
+  [[params.socialIcons]]
+    name = "github"
+    url = "https://github.com/tool-buddy"
+
+  [[params.socialIcons]]
+    name = "linkedin"
+    url = "https://www.linkedin.com/in/akram-el-hadri-toolbuddy"
+
+  [[params.socialIcons]]
+    name = "youtube"
+    url = "https://www.youtube.com/@toolbuddy"
+
+  [[params.socialIcons]]
+    name = "mastodon"
+    url = "https://mastodon.gamedev.place/@ToolBuddy"
+    
+  [[params.socialIcons]]
+    name = "twitter"
+    url = "https://twitter.com/Tool_Buddy"
+
+  [[params.socialIcons]]
+    name = "reddit"
+    url = "https://www.reddit.com/user/ikoaka"
+    
+  [params.assets]
+    favicon = "/icons/favicon.ico"
+    favicon16x16 = "/icons/favicon-16x16.png"
+    favicon32x32 = "/icons/favicon-32x32.png"
+    apple_touch_icon = "/icons/apple-touch-icon.png"
+    disableFingerprinting = true
+
+[menu]
+  [[menu.main]]
+    name = "Home"
+    url = "/"
+    weight = 1
+  [[menu.main]]
+    name = "Products"
+    url = "/products/"
+    weight = 2
+  [[menu.main]]
+    name = "Services"
+    url = "/services/"
+    weight = 3
+  [[menu.main]]
+    name = "About Me"
+    url = "/about-me/"
+    weight = 4
