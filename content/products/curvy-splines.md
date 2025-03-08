@@ -2,6 +2,7 @@
 title: "Curvy Splines"
 description: "Powerful & versatile Unity spline tool. Used for object movement, placement, deformation, generation – you name it."
 weight: 1
+category: "Unity Assets"
 cover:
     image: "/images/products/curvy-splines.webp"
     alt: "Curvy Splines"

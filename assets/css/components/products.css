@@ -1,9 +1,19 @@
+/* Category headers */
+h2.category-header {
+  margin-top: 3rem;
+  padding-bottom: 0.5rem;
+  border-bottom: 2px solid var(--border-color);
+  font-size: 2rem;
+  color: var(--primary-color);
+}
+
 /* Products grid */
 .products-grid {
   display: grid;
   grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
   gap: 2rem;
   margin-top: 2rem;
+  margin-bottom: 3rem;
 }
 
 /* Project cards */
@@ -36,7 +46,7 @@
 }
 
 .project-card-content {
-  padding: 0 1.5rem 1.5rem 1.5rem;
+  padding: 1rem 1.5rem 1rem 1.5rem;
 }
 
 .project-card h3 {

@@ -2,25 +2,33 @@
 <article class="post-single">
   <header class="post-header">
     <h1 class="post-title">{{ .Title }}</h1>
-    <div class="post-description">{{ .Description }}</div>
   </header>
   
   <div class="post-content">
     {{ .Content }}
     
-    <div class="products-grid">
-      {{ range .Pages.ByWeight }}
-      <div class="project-card">
-        <a href="{{ .Params.storeLink }}">
-          <img src="{{ .Params.cover.image }}" alt="{{ .Params.cover.alt }}" />
-        </a>
-        <div class="project-card-content">
-          <h2><a href="{{ .Params.storeLink }}">{{ .Title }}</a></h2>
-          <p>{{ .Description }}</p>
-        </div>
+    {{ $categories := slice "Unity Assets" "Other Tools" }}
+    {{ range $categories }}
+      {{ $category := . }}
+      <h2 class="category-header">{{ $category }}</h2>
+      <div class="products-grid">
+        {{ range $.Pages.ByWeight }}
+          {{ if eq .Params.category $category }}
+          <div class="project-card">
+            {{ if isset .Params "cover" }}
+              <a href="{{ .Params.storeLink }}">
+                <img src="{{ .Params.cover.image }}" alt="{{ .Params.cover.alt }}" />
+              </a>
+            {{ end }}
+            <div class="project-card-content">
+              <h3><a href="{{ .Params.storeLink }}">{{ .Title }}</a></h3>
+              <p>{{ .Description }}</p>
+            </div>
+          </div>
+          {{ end }}
+        {{ end }}
       </div>
-      {{ end }}
-    </div>
+    {{ end }}
   </div>
 </article>
 {{ end }}

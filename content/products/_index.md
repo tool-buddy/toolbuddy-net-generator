@@ -1,6 +1,6 @@
 ---
 title: "Products"
-description: "Unity assets made by ToolBuddy"
+description: "Unity assets and tools made by ToolBuddy"
 images:
   - images/social.webp
 ---

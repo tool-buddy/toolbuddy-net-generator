@@ -2,6 +2,7 @@
 title: "Comment To Tooltip"
 description: "Reuse your code comments as inspector tooltips in the Unity editor."
 weight: 7
+category: "Unity Assets"
 cover:
     image: "/images/products/comment-to-tooltip.webp"
     alt: "Comment To Tooltip"
