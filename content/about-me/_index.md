@@ -20,11 +20,11 @@ At the same time, I work as a freelancer for game development and the creation o
   <div class="toolset-chips">
     <span class="chip">C#</span>
     <span class="chip">Common Intermediate Language</span>
+    <span class="chip">TypeScript</span>
+    <span class="chip">JavaScript</span>
+    <span class="chip">ActionScript</span>
     <span class="chip">Python</span>
     <span class="chip">PowerShell</span>
-    <span class="chip">JavaScript</span>
-    <span class="chip">TypeScript</span>
-    <span class="chip">ActionScript 3</span>
     <span class="chip">PHP</span>
     <span class="chip">HLSL</span>
     <span class="chip">Java</span>
@@ -59,6 +59,7 @@ At the same time, I work as a freelancer for game development and the creation o
   <div class="toolset-chips">
     <span class="chip">ASP.Net MVC</span>
     <span class="chip">ASP.Net Core</span>
+    <span class="chip">Node.js</span>
     <span class="chip">Redis</span>
     <span class="chip">MySQL</span>
     <span class="chip">HTML</span>
@@ -89,7 +90,7 @@ At the same time, I work as a freelancer for game development and the creation o
   <div class="toolset-chips">
     <span class="chip">Windows Forms</span>
     <span class="chip">OpenShot Video Editor</span>
-    <span class="chip">YouTube</span>
+    <span class="chip">YouTube Studio</span>
   </div>
 </div>
 
