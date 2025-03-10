@@ -1,6 +1,6 @@
 ---
 title: "About Me"
-description: "Hi, I am Akram \"ToolBuddy\" El Hadri, a game dev since 2010. I make Unity assets, teach Unity and do freelance gamedev."
+description: "Hi, I am Akram \"ToolBuddy\" El Hadri, a game developer since 2010. I create Unity assets, teach Unity and do freelance game development."
 images:
   - images/social.webp
 ---
