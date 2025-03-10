@@ -42,7 +42,7 @@ At the same time, I work as a freelancer for game development and the creation o
     <span class="chip">ShaderLab</span>
     <span class="chip">Visual Scripting</span>
     <span class="chip">CineMachine</span>
-    <span class="chip">UIToolkit</span>
+    <span class="chip">UI Toolkit</span>
     <span class="chip">Unity UI (uGUI)</span>
     <span class="chip">IMGUI</span>
     <span class="chip">Editor Extensions</span>
