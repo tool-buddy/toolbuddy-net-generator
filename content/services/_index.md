@@ -12,11 +12,11 @@ With 15 years of experience in the video game industry, I deliver top-tier Unity
 - Implementing new features and systems  
 - Integrating third-party SDKs  
 
-## Custom Tools Development
+## Custom Tool Development
 - Creating Unity Editor extensions to enhance workflow  
 - Automating repetitive development tasks  
 
-## Generative AI Engineer
+## Generative AI Engineering
 - Integrating offline and online AI models for text, image, video, or speech generation
 - Fine-tuning models to enhance performance and adapt to specific project needs
 

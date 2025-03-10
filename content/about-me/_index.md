@@ -72,7 +72,7 @@ At the same time, I work as a freelancer for game development and the creation o
 </div>
 
 <div class="toolset-category">
-  <h3>AI</h3>
+  <h3>AI Engineering</h3>
   <div class="toolset-chips">
     <span class="chip">LLM</span>
     <span class="chip">Image-To-Text</span>
