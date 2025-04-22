@@ -16,6 +16,10 @@ h2.category-header {
   margin-bottom: 3rem;
 }
 
+a.project-card-link {
+  color: transparent
+}
+
 /* Project cards */
 .project-card {
   background-color: var(--card-background);

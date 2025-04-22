@@ -13,17 +13,17 @@
       <div class="products-grid">
         {{ range $.Pages.ByWeight }}
           {{ if eq .Params.category $category.id }}
-          <div class="project-card">
-            {{ if isset .Params "cover" }}
-              <a href="{{ .Params.storeLink }}">
+          <a href="{{ .Params.storeLink }}" class="project-card-link">
+            <div class="project-card">
+              {{ if isset .Params "cover" }}
                 <img src="{{ .Params.cover.image }}" alt="{{ .Params.cover.alt }}" />
-              </a>
-            {{ end }}
-            <div class="project-card-content">
-              <h3><a href="{{ .Params.storeLink }}">{{ .Title }}</a></h3>
-              <p>{{ .Description }}</p>
+              {{ end }}
+              <div class="project-card-content">
+                <h3>{{ .Title }}</h3>
+                <p>{{ .Description }}</p>
+              </div>
             </div>
-          </div>
+          </a>
           {{ end }}
         {{ end }}
       </div>
