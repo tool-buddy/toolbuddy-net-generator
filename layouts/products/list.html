@@ -7,13 +7,12 @@
   <div class="post-content">
     {{ .Content }}
     
-    {{ $categories := slice "Unity Assets" "Mobile Apps" "Other Tools" }}
-    {{ range $categories }}
+    {{ range site.Data.categories }}
       {{ $category := . }}
-      <h2 class="category-header">{{ $category }}</h2>
+      <h2 class="category-header">{{ .name }}</h2>
       <div class="products-grid">
         {{ range $.Pages.ByWeight }}
-          {{ if eq .Params.category $category }}
+          {{ if eq .Params.category $category.id }}
           <div class="project-card">
             {{ if isset .Params "cover" }}
               <a href="{{ .Params.storeLink }}">

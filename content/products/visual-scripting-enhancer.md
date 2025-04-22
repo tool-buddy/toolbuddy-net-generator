@@ -2,7 +2,7 @@
 title: "Visual Scripting Enhancer"
 description: "Upgrade Unity's Visual Scripting with tools that automatically arrange, edit, and clean your graphs."
 weight: 3
-category: "Unity Assets"
+category: unity_assets
 cover:
     image: "/images/products/visual-scripting-enhancer.webp"
     alt: "Visual Scripting Enhancer"

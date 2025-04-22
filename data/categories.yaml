@@ -1,0 +1,7 @@
+# Category definitions for ToolBuddy products
+- id: unity_assets
+  name: Unity Assets
+- id: mobile_apps
+  name: Mobile Apps
+- id: automation_tools
+  name: Automation Tools

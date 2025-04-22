@@ -2,7 +2,7 @@
 title: "Retro Boy Shader"
 description: "A customizable full-screen effect for Unity emulating the classic Game Boy visual style."
 weight: 4
-category: "Unity Assets"
+category: unity_assets
 cover:
     image: "/images/products/retro-boy-shader.webp"
     alt: "Retro Boy Shader"

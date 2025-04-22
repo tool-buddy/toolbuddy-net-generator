@@ -2,7 +2,7 @@
 title: "Frame Rate Booster"
 description: "Increase your Unity application's runtime performance with zero code modification."
 weight: 2
-category: "Unity Assets"
+category: unity_assets
 cover:
     image: "/images/products/frame-rate-booster.webp"
     alt: "Frame Rate Booster"

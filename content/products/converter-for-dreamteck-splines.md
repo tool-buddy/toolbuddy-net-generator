@@ -2,7 +2,7 @@
 title: "Converter For Dreamteck Splines"
 description: "Benefit from new features, active development, and customer support by automatically converting your Dreamteck splines to Curvy splines."
 weight: 6
-category: "Unity Assets"
+category: unity_assets
 cover:
     image: "/images/products/converter-for-dreamteck-splines.webp"
     alt: "Converter For Dreamteck Splines"

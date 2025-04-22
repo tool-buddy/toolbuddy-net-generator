@@ -2,7 +2,7 @@
 title: "Converter For Unity Splines"
 description: "Convert your Unity Splines to unlock advanced capabilities, including mesh deformation and advanced spline extrusion."
 weight: 5
-category: "Unity Assets"
+category: unity_assets
 cover:
     image: "/images/products/converter-for-unity-splines.webp"
     alt: "Converter For Unity Splines"
