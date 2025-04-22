@@ -46,19 +46,21 @@ At the same time, I work as a freelancer for game development and the creation o
   <h3>Game Development</h3>
   <div class="toolset-chips">
     <span class="chip">Unity</span>
-    <span class="chip">NetCode</span>
-    <span class="chip">Addressables</span>
-    <span class="chip">Shader Graph</span>
-    <span class="chip">ShaderLab</span>
-    <span class="chip">Visual Scripting</span>
-    <span class="chip">CineMachine</span>
+    <span class="chip">Editor Extensions</span>
+    <span class="chip">AR</span>
+    <span class="chip">Mobile</span>
     <span class="chip">UI Toolkit</span>
     <span class="chip">Unity UI (uGUI)</span>
-    <span class="chip">IMGUI</span>
-    <span class="chip">Editor Extensions</span>
-    <span class="chip">ProBuilder</span>
+    <span class="chip">Shader Graph</span>
+    <span class="chip">ShaderLab</span>
+    <span class="chip">CineMachine</span>
     <span class="chip">AI Navigation</span>
     <span class="chip">Splines</span>
+    <span class="chip">NetCode</span>
+    <span class="chip">Addressables</span>
+    <span class="chip">Visual Scripting</span>
+    <span class="chip">IMGUI</span>
+    <span class="chip">ProBuilder</span>
     <span class="chip">OpenGL</span>
     <span class="chip">Harmony</span>
   </div>
