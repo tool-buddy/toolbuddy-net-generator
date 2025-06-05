@@ -74,6 +74,10 @@ At the same time, I work as a freelancer for game development and the creation o
     <span class="chip">Node.js</span>
     <span class="chip">Redis</span>
     <span class="chip">MySQL</span>
+    <span class="chip">REST API</span>
+    <span class="chip">Swagger</span>
+    <span class="chip">Postman</span>
+    <span class="chip">GraphQL</span>
     <span class="chip">HTML</span>
     <span class="chip">CSS</span>
     <span class="chip">Hugo</span>
