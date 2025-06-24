@@ -1,17 +1,22 @@
 ---
 title: "About Me"
-description: "Hi, I am Akram \"ToolBuddy\" El Hadri, a game developer since 2010. I create Unity assets, teach Unity and do freelance game development."
+description: "Hi, I am Akram \"ToolBuddy\" El Hadri, a game developer since 2010. I create Unity assets, teach Unity, and work as a freelance developer."
 images:
   - images/social.webp
 ---
-I started my career in Facebook game development, where I held the roles of Full Stack Developer and then Lead Developer. This experience allowed me to acquire a global vision of the game production cycle.
+Over the years, I have contributed to a wide variety of projects across diverse environments and technologies. My experience includes the following:
 
-Subsequently, a game designer and I embarked on the indie adventure. We developed a prototype of a 3D racing game on Unity, where I worked on the 3Cs, shaders, the track editor and the multiplayer mode.
-Due to a lack of funding, this prototype did not result in a final game, but this experience led me to the creation of Unity assets.
+* Serving as a developer, lead developer, and Unity instructor
+* Working in small startups and as a solo developer
+* Taking on roles in gameplay and tools development
+* Participating in LiveOps games and prototyping new games
+* Developing for web, desktop, and mobile/AR platforms
 
-Under the name ToolBuddy, I published several Unity assets, covering various areas such as automatic game optimization and procedural generation of 3D models. These assets received an average rating of 4.8/5.
+I began my career in Facebook game development. After several years, I partnered with a game designer to develop a prototype for an indie 3D racing game in Unity. Unfortunately, due to insufficient funding, this prototype did not progress to a full release. However, this experience led me to the creation of Unity assets.
 
-At the same time, I work as a freelancer for game development and the creation of production tools. I also teach Unity game development at Isart Digital Paris.
+Under the name ToolBuddy, I publish Unity assets covering various areas such as automatic code optimizatin and procedural 3D model generation. These assets achieve an average rating of 4.8 out of 5. I also work as a freelancer in game and tool development, and teach Unity game development at ISART Digital Paris.
+
+
 
 ## Portfolio
 
@@ -104,7 +109,7 @@ At the same time, I work as a freelancer for game development and the creation o
 <div class="toolset-category">
   <h3>Misc</h3>
   <div class="toolset-chips">
-    <span class="chip">Windows Forms</span>
+    <span class="chip">WinForms</span>
     <span class="chip">OpenShot Video Editor</span>
     <span class="chip">YouTube Studio</span>
   </div>
