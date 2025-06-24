@@ -62,20 +62,24 @@ disableKinds = ["taxonomy", "term"]
       url = "/about-me"
 
   [[params.socialIcons]]
-    name = "email"
-    url = "mailto:admin@toolbuddy.net"
+    name = "unity"
+    url = "https://assetstore.unity.com/publishers/304"
 
   [[params.socialIcons]]
     name = "github"
     url = "https://github.com/tool-buddy"
 
   [[params.socialIcons]]
+    name = "youtube"
+    url = "https://www.youtube.com/@toolbuddy"
+
+  [[params.socialIcons]]
     name = "linkedin"
     url = "https://www.linkedin.com/in/akram-el-hadri-toolbuddy"
 
   [[params.socialIcons]]
-    name = "youtube"
-    url = "https://www.youtube.com/@toolbuddy"
+    name = "email"
+    url = "mailto:admin@toolbuddy.net"
 
   [[params.socialIcons]]
     name = "mastodon"
@@ -88,6 +92,7 @@ disableKinds = ["taxonomy", "term"]
   [[params.socialIcons]]
     name = "reddit"
     url = "https://www.reddit.com/user/ikoaka"
+
     
   [params.assets]
     favicon = "/icons/favicon.ico"
