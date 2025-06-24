@@ -1,6 +1,7 @@
 /* Footer */
-.social-icons {
-  scale: 0.7;
+.social-icons a {
+  scale: 0.8;
+  padding: 3px;
 }
 
 /* Footer Social Icons */
