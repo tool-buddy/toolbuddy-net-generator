@@ -21,7 +21,7 @@ Under the name ToolBuddy, I publish Unity assets covering various areas such as 
 ## Portfolio
 
 <div style="text-align: left;">
-  <a class="button" href="https://contra.com/toolbuddy_akram_el_hadri/work" rel="noopener" title="Portfolio on Contra" style="font-size: 28px;">
+  <a class="button" href="https://contra.com/toolbuddy_akram_el_hadri/work" rel="noopener" title="Portfolio on Contra" style="font-size: 28px; margin:0">
     <span class="button-inner">
       Portfolio on Contra      
     </span>
