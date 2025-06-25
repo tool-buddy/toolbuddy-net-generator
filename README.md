@@ -2,17 +2,12 @@
 
 This repository contains the source code for the [ToolBuddy](https://toolbuddy.net/) website, a website providing expertise and products for video game creators.
 
-## Technologies Used
+## Dependencies
 
-- [Hugo](https://gohugo.io/) - Static site generator
-- [PaperMod](https://github.com/adityatelange/hugo-PaperMod) - Theme for Hugo
+- [Hugo 0.147.9](https://gohugo.io/) - Static site generator
 
 ## Local Development
 
-### Prerequisites
-
-- [Hugo Extended](https://gohugo.io/installation/) (latest version recommended)
-- Git
 
 ### Getting Started
 
