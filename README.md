@@ -13,8 +13,8 @@ This repository contains the source code for the [ToolBuddy](https://toolbuddy.n
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/tool-buddy/website.git
-   cd website
+   git clone --recurse-submodules https://github.com/tool-buddy/toolbuddy-net-generator.git
+   cd toolbuddy-net-generator
    ```
 
 2. Start the Hugo development server:
