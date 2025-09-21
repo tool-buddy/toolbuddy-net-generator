@@ -4,17 +4,17 @@ description: "Hi, I am Akram \"ToolBuddy\" El Hadri, a game developer since 2010
 images:
   - images/social.webp
 ---
-Over the years, I have contributed to a wide variety of projects across diverse environments and technologies. My experience includes the following:
+Over the years, I have contributed to a wide variety of projects across diverse environments and technologies. My experience includes:
 
 * Serving as a developer, lead developer, and Unity instructor
 * Working in small startups and as a solo developer
-* Taking on roles in gameplay and tools development
+* Taking on roles in R&D, gameplay development, and tool development
 * Participating in LiveOps games and prototyping new games
 * Developing for web, desktop, and mobile/AR platforms
 
 I began my career in Facebook game development. After several years, I partnered with a game designer to develop a prototype for an indie 3D racing game in Unity. Unfortunately, due to insufficient funding, this prototype did not progress to a full release. However, this experience led me to the creation of Unity assets.
 
-Under the name ToolBuddy, I publish Unity assets covering various areas such as automatic code optimizatin and procedural 3D model generation. These assets achieve an average rating of 4.8 out of 5. I also work as a freelancer in game and tool development, and teach Unity game development at ISART Digital Paris.
+Under the name ToolBuddy, I publish Unity assets covering various areas such as automatic code optimization and procedural 3D model generation. These assets achieve an average rating of 4.8 out of 5. I also work as a freelancer in game and tool development, and teach Unity game development at ISART Digital Paris.
 
 
 
