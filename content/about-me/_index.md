@@ -109,9 +109,8 @@ Under the name ToolBuddy, I publish Unity assets covering various areas such as 
 <div class="toolset-category">
   <h3>Misc</h3>
   <div class="toolset-chips">
+    <span class="chip">Windows Presentation Foundation</span>
     <span class="chip">WinForms</span>
-    <span class="chip">OpenShot Video Editor</span>
-    <span class="chip">YouTube Studio</span>
   </div>
 </div>
 

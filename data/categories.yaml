@@ -3,5 +3,7 @@
   name: Unity Assets
 - id: mobile_apps
   name: Mobile Apps
+- id: ai_engineering
+  name: AI Engineering
 - id: automation_tools
   name: Automation Tools
