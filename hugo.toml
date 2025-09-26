@@ -61,6 +61,10 @@ disableKinds = ["taxonomy", "term"]
       name = "About Me"
       url = "/about-me"
 
+    [[params.profileMode.buttons]]
+      name = "Portfolio"
+      url = "https://contra.com/toolbuddy_akram_el_hadri/work"
+
   [[params.socialIcons]]
     name = "unity"
     url = "https://assetstore.unity.com/publishers/304"
