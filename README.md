@@ -1,5 +1,7 @@
 [![Deploy Website](https://github.com/tool-buddy/toolbuddy-net-generator/actions/workflows/deploy.yml/badge.svg)](https://github.com/tool-buddy/toolbuddy-net-generator/actions/workflows/deploy.yml)
 
+[<img alt="Deployed with FTP Deploy Action" src="https://img.shields.io/badge/Deployed With-FTP DEPLOY ACTION-%3CCOLOR%3E?style=for-the-badge&color=0077b6">](https://github.com/SamKirkland/FTP-Deploy-Action)
+
 # ToolBuddy Website
 
 This repository contains the source code for the [ToolBuddy](https://toolbuddy.net/) website, a website providing expertise and products for video game creators.
