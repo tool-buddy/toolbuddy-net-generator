@@ -1,3 +1,5 @@
+[![Deploy Website](https://github.com/tool-buddy/toolbuddy-net-generator/actions/workflows/deploy.yml/badge.svg)](https://github.com/tool-buddy/toolbuddy-net-generator/actions/workflows/deploy.yml)
+
 # ToolBuddy Website
 
 This repository contains the source code for the [ToolBuddy](https://toolbuddy.net/) website, a website providing expertise and products for video game creators.
