@@ -110,6 +110,7 @@ Under the name ToolBuddy, I publish Unity assets covering various areas such as 
   <h3>Misc</h3>
   <div class="toolset-chips">
     <span class="chip">GitHb Actions</span>
+    <span class="chip">Jenkins</span>
     <span class="chip">Windows Presentation Foundation</span>
     <span class="chip">WinForms</span>
   </div>
